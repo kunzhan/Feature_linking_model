@@ -15,4 +15,6 @@ If you use the Feature linking model, we appreciate it if you cite the following
   publisher = {MIT Press}
 }
 
+If you have any problems on FLM, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
+
 http://www.escience.cn/people/kzhan
