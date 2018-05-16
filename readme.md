@@ -20,7 +20,7 @@ If you use the Feature linking model, we appreciate it if you cite the following
 ## Contact
 If you have any questions, Feel free to contact me. (Email: ice.echo#gmail.com)
 
-[Kun Zhan](http://www.escience.cn/people/kzhan)
+http://www.escience.cn/people/kzhan
 
 
 <img src="https://www.mitpressjournals.org/na101/home/literatum/publisher/mit/journals/content/neco/2016/neco.2016.28.issue-6/neco.2016.28.issue-6/20160531/neco.2016.28.issue-6.cover.jpg" width="480">
